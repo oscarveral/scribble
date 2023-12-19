@@ -7,7 +7,7 @@ Universidad de Murcia.
 Se trata de un revisor de texto que según el input permite coreregir o 
 sugerir palabras según el diccionario que ha memorizado. La parte importante del
 proyecto es la implementación de diferentes estrucutras de datos como las Tablas
-Hash o los árboles de palabras mediante Nodos Trie 
+Hash o los árboles de palabras mediante Nodos Trie.
 
 # Autores.
 
